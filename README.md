@@ -1,8 +1,3 @@
 # Sky Nest Co-Living website
 
-Unit 6 Website Development project.
-
-- `version-1/` – first prototype shown to reviewers for feedback
-- `final/` – final website, improved after feedback and testing
-
-Open `index.html` to choose a version.
+Unit 6 Website Development project – final version of the Sky Nest Co-Living website (home, packages, facilities, help & advice and contact pages).
